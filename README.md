@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет! 👋
+Меня зовут Женя, я увлекаюсь аналитикой и хочу стать в ней профессионалом.
 
-<!--
-**panovgene/panovgene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Кратко обо мне
+- Закончил курсы "Аналитика Данных" от Яндекс (23.12.2022)
+- Закончил курсы "Поколение python" на Stepik
+- Занимаюсь автоматизацией сбора и обработки файлов на Python, расчетом бизнес-метрик, построением дашбордов, составлением отчетов с помощью SQL-запросов
 
-Here are some ideas to get you started:
+#### Мой стек:
+- SQL/Визуализация (Postgres, Clickhouse, Grafana, Tableau, DBeaver, DataGrip)
+- Python (Pandas, Numpy, pathlib, shutil, os, Plotly, Seaborn, PIL, ... список постоянно пополняется 😀 )
+- Jira, Google Analytics 4, Looker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Портфолио:
+В публичном доступе представлены не все мои проекты. Пишите мне, я познакомлю вас с остальными. <br>
+email: panov.gene@yandex.ru
